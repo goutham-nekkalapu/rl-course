@@ -1,6 +1,14 @@
-<center><h2>University of San Francisco's MSDS <br> Topics in Artificial Intelligence: Reinforcement Learning <br>  MSDS 6XX Summer 2019</h2></center>
+<center><h2>Topics in Artificial Intelligence: Reinforcement Learning <br> University of San Francisco's MSDS 6XX Summer 2019</h2></center>
 
 <center><img src="https://imgs.xkcd.com/comics/progeny.png" style="width: 40%"/></center>
+
+----
+Course Description
+----
+
+This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The course will focus on contemporary, practical applications. Topics will include search strategies and deep Reinforcement Learning. 
+
+This course is part of the [MS in Data Science program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
 
 ----
 Logistics
@@ -8,29 +16,21 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: TBD & By Appointment   
+__Office hours__: Tuesday & Thursday 3:05-3:35 & By Appointment   
 
 __Grader__: TBD  
 __Contact__: [Slack @TBD](https://msan-usf.slack.com/messages/@TBD) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu)     
 
 __Website__: [github.com/brianspiering/
-intro-to-ml](https://github.com/brianspiering/rl-course)    
+rl-course](https://github.com/brianspiering/rl-course)    
 __Communication__: Slack [`#msds_rl`](https://msan-usf.slack.com/messages/CDZGD9FAL)  
-__Location__: 101 Howard, San Francisco, CA   
-__Sections__: TBD
-
-----
-Course Description
-----
-
-This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The course will focus on contemporary, practical applications, such as search strategies and deep reinforcement learning to solve games. 
-
-This course is part of the [MS in Data Science program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
+__Location__: Classroom 155-156, 101 Howard St, San Francisco, CA   
+__Section__: Tuesday & Thursday 1:10-3:05pm
 
 Prerequisite Knowledge
 ----
 
-- Working knowledge of probability, statistics, machine learning, and deep learning
+- Working knowledge of probability, statistics, machine learning, and deep learning.
 - Intermediate level of Python (e.g., ability to create to classes).
 
 Learning Outcomes
@@ -38,33 +38,33 @@ Learning Outcomes
 
 By the end of the course, you should be able to:  
 
-1. Define Artificial Intelligence (AI) and identify applications and limitations.
+1. Define common Reinforcement Learning terms, such as Agent, Environment, State, and Rewards.
+1. Identify Reinforcement Learning applications.
 1. Implement common search techniques, such as beam search and Bayesian Optimization.
 1. Implement common Reinforcement Learning techniques, such as multi-arm bandits and q-learning.
-1. Use Reinforcement Learning techniques to solve applied problems.
+1. Apply Reinforcement Learning techniques to solve complex data problems.
 
 ----
 Tentative Course Schedule
 ----
 
-1.  (__/__) Welcome ∧ Intro to AI ∧ Intro to RL  
-2.  (__/__) Discrete Optimization / State Space Search ∧ Dynamic Programming
-3.  (__/__) Continuous Optimization / State Space Search
-4.  (__/__) Multi-armed Bandits 
-5.  (__/__) Finite Markov Decision Processes (MDP)
-6.  (__/__) Deep Learning (DL) Refresher
-7.  (__/__) Deep Reinforcement Learning (DRL) overview ∧ Deep Q-learning
-8.  (__/__) Exam
-9.  (__/__) Deep Reinforcement Learning Applications I
-10. (__/__) Deep Reinforcement Learning Applications II
-11. (__/__) Ethics in DS/ML/AI
-12. (__/__) Final Project Poster Presentations
+1.  (05/21) Welcome ∧ Intro to AI ∧ Intro to RL  
+2.  (05/23) Discrete Optimization ∧ Dynamic Programming
+3.  (05/28) Multi-armed Bandits 
+4.  (05/30) Continuous Optimization ∧ Bayesian Optimization
+5.  (06/04) Markov Decision Processes (MDP)
+6.  (06/06) Planning Algorithms (i.e., Value Interation and Policy Interation)
+7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) overview 
+8.  (06/13) Exam
+9.  (06/18) Deep Q-learning
+10. (06/20) Deep Reinforcement Learning Applications I
+11. (06/25) Ethics in DS/ML/AI
+12. (06/27) Final Project Poster Session
 
 Topics Not Covered
 -----
 
 - “Good Old Fashioned AI”, aka expert/ruled-based systems
-- Graph Search
 - Game Theory, Psychology, Neuroscience
 - Genetic algorithms
         
@@ -86,7 +86,7 @@ Grading
 | Final Project  | 30%      |
 | __Total__      | __100%__ |
 
-Each item's contribution is capped its percentage. The total course percentage is capped at 100%.
+Each item's contribution is capped its respective percentage. The total course percentage is capped at 100%.
 
 Currently, there is no extra credit. If there is any extra credit, it entirely at the discretion of the instructor.
 
