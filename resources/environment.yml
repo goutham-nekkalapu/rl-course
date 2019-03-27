@@ -1,0 +1,28 @@
+name: rl-course
+channels:
+  - conda-forge
+  - damianavila82
+  - pytorch
+dependencies:
+  - python==3.7
+  - pytorch>=1.0 
+  - torchvision 
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - nbgrader
+  - pandas
+  - scikit-learn
+  - seaborn
+  - requests
+  - rise
+  - tensorboardX
+  - pip:
+    - jupyter_contrib_nbextensions
+    - mdp
+    - pymdptoolbox
+    
+    
+

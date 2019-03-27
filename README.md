@@ -38,11 +38,12 @@ Learning Outcomes
 
 By the end of the course, you should be able to:  
 
-1. Define common Reinforcement Learning terms, such as Agent, Environment, State, and Rewards.
-1. Identify Reinforcement Learning applications.
-1. Implement common search techniques, such as beam search and Bayesian Optimization.
-1. Implement common Reinforcement Learning techniques, such as multi-arm bandits and q-learning.
-1. Apply Reinforcement Learning techniques to solve complex data problems.
+1. Apply Reinforcement Learning techniques to solve complex, applied problems.
+1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
+1. Implement fundamental discrete and continuous space search techniques.
+1. Implement common Reinforcement Learning techniques(e.g., multi-arm bandits and q-learning) from scratch.
+1. Write Deep Reinforcement Learning applications
+1. Explain the ethic issues involved with the application of machine learning techniques
 
 ----
 Tentative Course Schedule
@@ -50,14 +51,14 @@ Tentative Course Schedule
 
 1.  (05/21) Welcome ∧ Intro to AI ∧ Intro to RL  
 2.  (05/23) Discrete Optimization ∧ Dynamic Programming
-3.  (05/28) Multi-armed Bandits 
+3.  (05/28) Multi-armed Bandits Redux
 4.  (05/30) Continuous Optimization ∧ Bayesian Optimization
 5.  (06/04) Markov Decision Processes (MDP)
-6.  (06/06) Planning Algorithms (i.e., Value Interation and Policy Interation)
+6.  (06/06) Planning Algorithms for RL agents 
 7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) overview 
-8.  (06/13) Exam
-9.  (06/18) Deep Q-learning
-10. (06/20) Deep Reinforcement Learning Applications I
+8.  (06/13) Deep Q-learning
+9.  (06/18) Exam
+10. (06/20) Deep Reinforcement Learning Applications
 11. (06/25) Ethics in DS/ML/AI
 12. (06/27) Final Project Poster Session
 
@@ -67,6 +68,9 @@ Topics Not Covered
 - “Good Old Fashioned AI”, aka expert/ruled-based systems
 - Game Theory, Psychology, Neuroscience
 - Genetic algorithms
+- Simulated Annealing
+- Distributed computing
+- Production applications
         
 ----
 Textbook
@@ -94,7 +98,7 @@ We'll be using Canvas as the learning management system (LMS), aka gradebook. Th
 
 ### Participation
 
-I try to create an active learning environment in my classroom, which is incentivized with the _Participation_ grade. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) should accompany absences due to sickness.
+I try to create an active learning environment in my classroom, which is incentivized with the _Participation_ grade. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for to accompany absences.
 
 Tardiness negatively impacts an active learning environment, thus will impact your participation grade.
 
@@ -112,7 +116,16 @@ Late assignments will only be accepted for medical emergencies.
 
 ### Final Project 
 
-In lieu of a Final Exam, there will be a Final Project. Details in Final Project Folder.
+In lieu of a Final Exam, there will be a Final Project. 
+
+The Final Project goal is to do self-directed, individual work. Most projects will be the application of Reinforcement Learning techniques to model data or solve new problems. 
+
+There will be at least two deliverables:
+
+1. Jupyter Notebook summary of work
+2. A physical poster for in-class presentation
+
+More details to come, they will be put in the Final Project Folder.
 
 ----
 Grading
