@@ -40,7 +40,6 @@ By the end of the course, you should be able to:
 
 1. Apply Reinforcement Learning techniques to solve complex, applied problems.
 1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
-1. Implement fundamental discrete and continuous space search techniques.
 1. Implement common Reinforcement Learning techniques(e.g., multi-arm bandits and q-learning) from scratch.
 1. Write Deep Reinforcement Learning applications
 1. Explain the ethic issues involved with the application of machine learning techniques
@@ -50,11 +49,11 @@ Tentative Course Schedule
 ----
 
 1.  (05/21) Welcome ∧ Intro to AI ∧ Intro to RL  
-2.  (05/23) Discrete Optimization ∧ Dynamic Programming
-3.  (05/28) Multi-armed Bandits Redux
-4.  (05/30) Continuous Optimization ∧ Bayesian Optimization
-5.  (06/04) Markov Decision Processes (MDP)
-6.  (06/06) Planning Algorithms for RL agents 
+2.  (05/23) Multi-armed Bandits Redux
+3.  (05/28) Markov Decision Processes (MDP)
+4.  (05/30) Temporal difference learning
+5.  (06/04) Value-Iteration & Policy-Iteration
+6.  (06/06) Q-Learning
 7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) overview 
 8.  (06/13) Deep Q-learning
 9.  (06/18) Exam
@@ -66,17 +65,22 @@ Topics Not Covered
 -----
 
 - “Good Old Fashioned AI”, aka expert/ruled-based systems
+- General discrete and continuous space search / optimization techniques
 - Game Theory, Psychology, Neuroscience
 - Genetic algorithms
 - Simulated Annealing
+- Monte Carlo Methods
 - Distributed computing
 - Production applications
+- Multiple agents
+- Robotics
         
 ----
-Textbook
+Textbooks
 ----
 
-Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto [pdf version](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walkthrough of the most common RL algorithms[pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 ----
 Grading
