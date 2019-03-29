@@ -51,10 +51,10 @@ Tentative Course Schedule
 1.  (05/21) Welcome ∧ Intro to AI ∧ Intro to RL  
 2.  (05/23) Multi-armed Bandits Redux
 3.  (05/28) Markov Decision Processes (MDP)
-4.  (05/30) Temporal difference learning
-5.  (06/04) Value-Iteration & Policy-Iteration
+4.  (05/30) Temporal Difference Learning
+5.  (06/04) Value-Iteration ∧ Policy-Iteration
 6.  (06/06) Q-Learning
-7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) overview 
+7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) 
 8.  (06/13) Deep Q-learning
 9.  (06/18) Exam
 10. (06/20) Deep Reinforcement Learning Applications
@@ -64,23 +64,25 @@ Tentative Course Schedule
 Topics Not Covered
 -----
 
-- “Good Old Fashioned AI”, aka expert/ruled-based systems
-- General discrete and continuous space search / optimization techniques
-- Game Theory, Psychology, Neuroscience
+- “Good Old Fashioned AI”, aka expert / ruled-based systems
+- General discrete and continuous space search / optimization
+- Game Theory
+- Psychology
+- Neuroscience
 - Genetic algorithms
 - Simulated Annealing
 - Monte Carlo Methods
 - Distributed computing
 - Production applications
-- Multiple agents
 - Robotics
+- Multiple agents
         
 ----
 Textbooks
 ----
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
-1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walkthrough of the most common RL algorithms[pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
 ----
 Grading
@@ -107,6 +109,8 @@ I try to create an active learning environment in my classroom, which is incenti
 Tardiness negatively impacts an active learning environment, thus will impact your participation grade.
 
 You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
+
+I have a closed-computer classroom. Your laptop and phone must put away and still put away during the entire class, unless explicitly instructed by me that it is okay to use it.  I have directly observed that laptops and phone use negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I suggest you take notes on paper. A tablet is acceptable for note taking only. This is your warning. Every violation will negatively impact your participation grade. The penalties scale exponentially - The first offense is will result in a .5% loss of participation points, the second offense is 1%, the third offense is 2%, the fourth offense is 4%, and the fifth offense is 10%. Just to be clear, you'll get no participation points for the fifth offense of using a laptop or phone in class.
 
 ### Exam
 
