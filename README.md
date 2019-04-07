@@ -17,9 +17,8 @@ Logistics
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Tuesday & Thursday 3:05-3:35 & By Appointment   
-
-__Grader__: TBD  
-__Contact__: [Slack @TBD](https://msan-usf.slack.com/messages/@TBD) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu)     
+__Grader__: Alice  
+__Contact__: [Slack @TBD](https://msan-usf.slack.com/messages/@TBD) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
@@ -41,8 +40,8 @@ By the end of the course, you should be able to:
 1. Apply Reinforcement Learning techniques to solve complex, applied problems.
 1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
 1. Implement common Reinforcement Learning techniques(e.g., multi-arm bandits and q-learning) from scratch.
-1. Write Deep Reinforcement Learning applications
-1. Explain the ethic issues involved with the application of machine learning techniques
+1. Write Deep Reinforcement Learning applications.
+1. Explain the ethic issues involved with the application of machine learning techniques.
 
 ----
 Tentative Course Schedule
@@ -65,6 +64,7 @@ Topics Not Covered
 -----
 
 - “Good Old Fashioned AI”, aka expert / ruled-based systems
+- Cutting-edge research 
 - General discrete and continuous space search / optimization
 - Game Theory
 - Psychology
@@ -110,7 +110,16 @@ Tardiness negatively impacts an active learning environment, thus will impact yo
 
 You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
-I have a closed-computer classroom. Your laptop and phone must put away and still put away during the entire class, unless explicitly instructed by me that it is okay to use it.  I have directly observed that laptops and phone use negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I suggest you take notes on paper. A tablet is acceptable for note taking only. This is your warning. Every violation will negatively impact your participation grade. The penalties scale exponentially - The first offense is will result in a .5% loss of participation points, the second offense is 1%, the third offense is 2%, the fourth offense is 4%, and the fifth offense is 10%. Just to be clear, you'll get no participation points for the fifth offense of using a laptop or phone in class.
+This is a closed-computer classroom. Your phone and laptop must stay put away during the entire class, unless explicitly instructed by me that it is okay to use your laptop for a specific activity. I have directly observed that just the presence of phones and laptops negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest  taking notes on paper. A tablet is acceptable for note taking. A tablet should be used for any other purpose.
+
+This is your warning around off-topic computer use. Violations include (but not limited to): looking at the screen, typing, and using any type of computer for activities not directly to the current in-class activities. Every violation will negatively impact your total grade by losing participation points. The penalties scale exponentially - The first offense is will result in a .5% loss of total points, the second offense is 1% of total points, the third offense is 2%, the fourth offense is 4%, and the fifth offense is 10% of total points (i.e., the cap is 100% of your participation points). 
+
+### Auditing Policy
+
+If you are currently a MSDS student, you are welcome to audit any or all classes without my permission. There are two criteria:
+
+1. You must follow the closed-computer classroom policy. If you do not, you will be asked to leave the classroom.
+2. You must be in good standing with Career Services. During the summer session, students are required to take only one class so they more time to focus on their job search. If you are on-track with your job search, you can use your extra time to audit my class. If you are not on-track with your job search, your time is better spent on that. 
 
 ### Exam
 
