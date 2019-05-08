@@ -18,27 +18,23 @@ Final Project deliverables
 
 | Item                  | Date       | Weight |
 |:----------------------|:----------:|:-----: |  
-| Topic selection       | 2019-05-06 | 5%     |
-| Check-in              | 2019-05-06 | 5%     |
-| In-class presentation | 2019-05-06 | 20%    |
-| Summary report        | 2019-05-06 | 20%    |
-| Code base             | 2019-05-06 | 50%    |
+| Topic selection       | TDB | 5%     |
+| Check-in              | TBD | 5%     |
+| In-class presentation | 2018-06-27 | 20%    |
+| Summary report        | TBD | 20%    |
+| Code base             | TBD | 50%    |
 | __Total__             |            |__100%__|
 
 Instructions
 ----
 
-This project will become a part of your public Data Science portfolio, thus all data must be public and code must be public with an appropriate license.  
-
-It is best if all ideas and code are original with you. However, you can build on previous work. If you choose to incorporate previous work, the project will be more challenging because you'll have to be very clear what the previous was and what your unique contribution is.
-
-You must cite all ideas and code immediately adjacent (i.e., comments or markdown cell with hyperlinks). See course materials for examples. __Failure to cite any ideas and code, will result in an automatic O on this project.__
-
 This is your project so it is up to you to develop the right applied research question. The instructor will approve the research question to make sure it is appropriate and within scope. Acquiring data should not take away from the other aspects of the project (i.e., no collecting or web scraping the data). You can use "toy" data or synthetic data.
 
-You'll communicating your findings to a technical audience. You'll give an individual presentation during the last day of class on 2018-06-27 and submit a link to your GitHub repo on Canvas. 
+This project will become a part of your public Data Science portfolio, thus all data must be public and code must be public with an appropriate license.  
 
-The presentation will be 7 minutes with 1 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
+It is best if all ideas and code are original with you. However, you can build on previous work. If you choose to incorporate previous work, the project will be more challenging because you'll have to be very clear what was previously done and what your unique contribution is. You must cite all ideas and code immediately adjacent (i.e., comments or markdown cell with hyperlinks). See course materials for examples. __Failure to cite any ideas and code, will result in an automatic O on this project.__
+
+You'll communicating your findings to a technical audience. You'll give an individual presentation during the last day of class on 2018-06-27.  The presentation will be 7 minutes with 1 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
 
 Signup: TBD  
 
