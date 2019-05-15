@@ -18,7 +18,7 @@ __Instructor:__ Brian Spiering
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Tuesday & Thursday 3:05-3:35 & By Appointment   
 __Grader__: Alice  
-__Contact__: [Slack @TBD](https://msan-usf.slack.com/messages/@TBD) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
+__Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
@@ -47,9 +47,9 @@ By the end of the course, you should be able to:
 Tentative Course Schedule
 ----
 
-1.  (05/21) Welcome ∧ Intro to AI ∧ Intro to RL  
+1.  (05/21) Welcome ∧ Intro to RL  
 2.  (05/23) Multi-armed Bandits Redux
-3.  (05/28) Markov Decision Processes (MDP)
+3.  (05/28) Markov Decision Processes (MDP) ∧ Dynamic Programming
 4.  (05/30) Temporal Difference Learning
 5.  (06/04) Value-Iteration ∧ Policy-Iteration
 6.  (06/06) Q-Learning
@@ -76,6 +76,7 @@ Topics Not Covered
 - Production applications
 - Robotics
 - Multiple agents
+- [Complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg)
         
 ----
 Textbooks

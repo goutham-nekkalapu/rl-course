@@ -21,7 +21,7 @@ conda env create --name $envname --force
 source activate $envname
 
 # Update during development
-conda update --all --yes 
+# conda update --all --yes 
 # # Pin right before teaching
 # conda env export > environment environment.yml
 
