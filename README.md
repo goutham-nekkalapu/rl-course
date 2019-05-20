@@ -6,7 +6,7 @@
 Course Description
 ----
 
-This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). The course will focus on contemporary, practical applications. Topics will include search strategies and deep Reinforcement Learning. 
+This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). Reinforcement Learning studies how agents learn to take succesful actions in an enviroment. Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games and board games. The course will focus on contemporary, practical applications of Reinforcement Learning. Topics will include fundamental Reinforcement Learning algorithms, such as multi-arm bandits and q-learning, and deep Reinforcement Learning. 
 
 This course is part of the [MS in Data Science program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
 
@@ -15,7 +15,7 @@ Logistics
 ----
 
 __Instructor:__ Brian Spiering   
-__Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
+__Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Tuesday & Thursday 3:05-3:35 & By Appointment   
 __Grader__: Alice  
 __Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
@@ -39,9 +39,9 @@ By the end of the course, you should be able to:
 
 1. Apply Reinforcement Learning techniques to solve complex, applied problems.
 1. Define and identify examples of common Reinforcement Learning terms (e.g., agent, environment, state, and rewards).
-1. Implement common Reinforcement Learning techniques(e.g., multi-arm bandits and q-learning) from scratch.
+1. Implement common Reinforcement Learning techniques (e.g., multi-arm bandits and q-learning) from scratch.
 1. Write Deep Reinforcement Learning applications.
-1. Explain the ethical issues involved with the application of machine learning techniques.
+1. Explain the ethical issues involved with the application of machine learning.
 
 ----
 Tentative Course Schedule
@@ -49,10 +49,10 @@ Tentative Course Schedule
 
 1.  (05/21) Welcome ∧ Intro to RL  
 2.  (05/23) Multi-armed Bandits Redux
-3.  (05/28) Markov Decision Processes (MDP) ∧ Dynamic Programming
-4.  (05/30) Temporal Difference Learning
-5.  (06/04) Value-Iteration ∧ Policy-Iteration
-6.  (06/06) Q-Learning
+3.  (05/28) Markov Decision Processes (MDP) with models
+4.  (05/30) Model-Free Policy Evaluation ∧ Dynamic Programming
+5.  (06/04) Model-Free Control ∧ Q Learning
+6.  (06/06) Value Function Approximation
 7.  (06/11) Deep Learning (DL) Refresher ∧ Deep Reinforcement Learning (DRL) 
 8.  (06/13) Deep Q-learning
 9.  (06/18) Exam
@@ -120,21 +120,30 @@ This is your warning around off-topic computer use. Violations include (but not 
 If you are currently a MSDS student, you are welcome to audit any or all classes without my permission. There are two criteria:
 
 1. You must follow the closed-computer classroom policy. If you do not, you will be asked to leave the classroom.
-2. You must be in good standing with Career Services. During the summer session, students are required to take only one class so they have more time to focus on their job search. If you are on-track with your job search, you can use your extra time to audit my class. If you are not on-track with your job search, your time is better spent on getting back on track with your job search. 
+2. You must be in good standing with Career Services. During the summer session, students are required to take only one class so they have more time to focus on their job search. If you are on-track with your job search, you can use your extra time to audit my class. If you are not on-track with your job search, your time is better spent on getting back on track with your job search than auditing my class. 
 
 ### Exam
 
-There will be one exam. It will be a combination of multiple choice, short answer, and programming questions.
+There will be one exam on 06-18-19. It will be a combination of multiple choice, short answer, and programming questions.
 
 ### Labs
 
 The labs will be hands-on activities. The focus will be implementing algorithms from scratch or applying common libraries (e.g., PyTorch).
 
+| Lab                      | Due Date & Time|
+|:-------------------------|:--------:|
+| 1. Tower of Hanoi        | 05-26-19 9p|
+| 2. Rock, Paper, Scissors | 05-29-19 9p|
+| 3. Grid World            | 06-02-19 9p|
+| 4. Tic, Tac, Toe         | 06-09-19 9p|
+| 5. Basket Catch          | 06-16-19 9p|
+| 6. Cart Pole             | 06-23-19 9p|
+
 Late assignments will only be accepted for medical emergencies.
 
 ### Final Project 
 
-In lieu of a Final Exam, there will be a Final Project. Projects will be the application of Reinforcement Learning techniques to model data or solve new problems. 
+In lieu of a Final Exam, there will be a Final Project due on 06-27-19. The Final Project will be the application of Reinforcement Learning techniques to model data or solve a novel problem. 
 
 More details are in Final Project Folder.
 

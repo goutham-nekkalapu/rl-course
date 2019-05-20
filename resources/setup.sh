@@ -31,3 +31,5 @@ jupyter nbextension enable spellchecker/main
 jupyter nbextension enable codefolding/main
 jupyter nbextension install rise --py --sys-prefix
 jupyter nbextension enable rise --py --sys-prefix
+
+# Note: This shell script comes with no wartanary or support. It is just an aid to help you create a reproducible enirovnment for the course. Your computer might not play nice with it, and this script depends on The Internet which changes.

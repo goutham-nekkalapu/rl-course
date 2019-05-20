@@ -149,6 +149,6 @@ dependencies:
     - lxml==4.3.2
     - mdp==3.5
     - pymdptoolbox==4.0b3
-    - pyyaml==3.13
+    # - pyyaml==3.13
 
 

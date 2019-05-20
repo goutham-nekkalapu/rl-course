@@ -16,6 +16,7 @@ Required
 Optional
 ------
 
+- SB (Sutton and Barton) Chp 1, 1.1-1.5
 - Towards a Hands-Free Query Optimizer through Deep Learning
     - [Blogpost](https://blog.acolyer.org/2019/01/18/towards-a-hands-free-query-optimizer-through-deep-learning/)
     - [Technical Paper](http://cidrdb.org/cidr2019/papers/p96-marcus-cidr19.pdf)

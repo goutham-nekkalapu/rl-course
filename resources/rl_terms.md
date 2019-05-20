@@ -13,6 +13,19 @@ RL Terms
 - State Space
     + Discrete 
     + Continuous
+- State Space
+    + Smaller
+    + Larger
+- State Space
+    + Completely observed
+    + Partially hidden
+- Rewards
+    + Deterministic vs. stochastic
+    + Only at end vs. antermediate
+    + All-or-nothing vs gradation
+- Policy Types
+    + Deterministic
+    + Stochastic
 - Algorithms types
     - Model-based algorithms
     - Model-free algorithms
@@ -28,6 +41,7 @@ RL Terms
     + Partially Observable
 - Value Function
 - TD (temporal difference) algorithms
+
 
 -----
 Other Glossaries
