@@ -16,9 +16,9 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @BrianSpiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Tuesday & Thursday 3:05-3:35 & By Appointment   
+__Office hours__: Tuesday from 3:05-3:35 | Thursday 12:30-1:00 | By Appointment   
 __Grader__: Alice  
-__Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
+__Contact__: [Slack @alice](https://msan-usf.slack.com/messages/DJLJMRM5K) | [awang37@usfca.edu](awang37@usfca.edu) 
 
 __Website__: [github.com/brianspiering/
 rl-course](https://github.com/brianspiering/rl-course)    
