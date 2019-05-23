@@ -40,5 +40,6 @@ __Challenge__:
 - [A collection of Bandit algorithms](http://banditalgs.com/)
 - "Taking the Human Out of the Loop: A Review of Bayesian Optimization" in readings folder
 - [The Contextual Bandits Problem: A New, Fast, and Simple Algorithm from Microsoft Research](https://www.youtube.com/watch?v=gzxRDw3lXv8)
-- [Bandit Algorithms for Website Optimization](http://shop.oreilly.com/product/0636920027393.do)
+- https://blog.acolyer.org/2018/10/08/online-parameter-selection-for-web-based-ranking-problems/
+- [Bandit Algorithms for Website Optimization](http://shop.oreilly.com/product/0636920027393.do) (book)
 - [Sigopt blog](https://blog.sigopt.com/)
