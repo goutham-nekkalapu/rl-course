@@ -40,6 +40,10 @@ Example projects
 - Deep Reinforcement Learning based Insulin Controller for Effective Type-1 Diabetic Care
     - [slides](https://www.slideshare.net/SessionsEvents/liliana-cruz-lopez-deep-reinforcement-learning-based-insulin-controller-for-effective-type1-diabetic-care)
     - [video](https://www.youtube.com/watch?v=tcS3YsK8Wh0&list=PLrbAIdPI69Pj12qdrEJZ-QllyAXGjFjH-&index=9)
+* Deep Reinforcement Learning to solve Rubik’s Cube
+    - [blogpost](https://medium.com/datadriveninvestor/reinforcement-learning-to-solve-rubiks-cube-and-other-complex-problems-106424cf26ff)
+    - [technical paper](https://arxiv.org/pdf/1805.07470.pdf)
+    - [code](https://github.com/Shmuma/rl/tree/master/articles/01_rubic)
 - Stanford student projects
     + [Default Final Project](http://web.stanford.edu/class/cs234/default_project/default_project.pdf)
     - [1](https://github.com/bmeyers/VirtualMicrogridSegmentation)
@@ -55,6 +59,7 @@ Games for inspiration:
 - [List of dice games](https://en.wikipedia.org/wiki/List_of_dice_games)
 - [List of card games](https://en.wikibooks.org/wiki/Card_Games/List)
 - [List of board games](https://en.wikipedia.org/wiki/List_of_board_games)
+- [List of Math-y games](https://www.mathsisfun.com/games/index-flash.html)
 - [Liar's poker](https://en.wikipedia.org/wiki/Liar%27s_poker)
 - [Risk](https://en.wikipedia.org/wiki/Risk_(game))
 
