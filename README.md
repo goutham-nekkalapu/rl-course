@@ -76,7 +76,7 @@ Topics Not Covered
 - Production applications
 - Robotics
 - Multiple agents
-- [Complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg)
+- This course is not a [complete survey of RL methods](http://louiskirsch.com/assets/posts/map-reinforcement-learning/methods.svg)
         
 ----
 Textbooks
@@ -84,7 +84,8 @@ Textbooks
 
 1. Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. The standard textbook for RL [pdf](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 1. Algorithms for Reinforcement Learning by Csaba Szepesvari A delightful walk-through of the most common RL algorithms [pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-
+1. [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518). There is a new edition coming out in October, 2019.
+ 
 ----
 Grading
 ----
