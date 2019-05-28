@@ -14,6 +14,8 @@ I'm assigning two lectures. The first lecture is a general overview. The second 
     + [Video](https://www.youtube.com/watch?v=E3f2Camj0Is&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=2)
     + [Slides & Draft lecture notes](http://web.stanford.edu/class/cs234/schedule.html)
 
+Remember to complete the Video Comprehension Quizz on [Canvas](https://usfca.instructure.com/courses/1585295/quizzes) before the start of class.
+
 Optional
 ------
 
