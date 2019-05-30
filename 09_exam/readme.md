@@ -5,7 +5,7 @@ The exam will be 05-29-19 from 1:10-3:05pm.
 
 The exam is closed books and computers (including phones and Internet). It is open mind. 
 
-You may use a calculator.
+You may use a calculator. Your calculator can __not__ have memory.
 
 You may use 1 page of your own notes. Just to clarify - __only__ one regular sheet of paper, front and back, with only your own handwriting. Color coding is acceptable. Sticky notes are not acceptable. 
 
