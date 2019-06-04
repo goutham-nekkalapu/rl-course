@@ -30,6 +30,7 @@ General ideas
 - Transfer learning. Agents trained on one task can more quickly learn another task.
 - Multi-agent problems and algorithms. We are not cover it in class. 
     + Enter [MalmO Competition](https://www.crowdai.org/challenges/marlo-2018)
+- I love multi-arm bandits (MAB). However, it is a very simple RL problem. MAB are a MDP with only a single state. If you want to build a recommender engine for final project, you should try to make it more complex. An example of a more complex MDP is the complete sign-up flow of a customer with several variations over the customer journey. Add a probabilistic Viterbi lattice and you getting something interesting.
 - Other RL algorithms not covered in class.
 - Music! Music is a sequential activity with rewards. Imagine different agents "jamming" together and with humans.
 - Your own idea. This is your project. What is interesting to you?

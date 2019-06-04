@@ -11,7 +11,7 @@ dependencies:
   - blas=1.0=openblas
   - bleach=3.1.0=py37_0
   - bzip2=1.0.6=h1de35cc_5
-  - ca-certificates=2019.1.23=0
+  - ca-certificates=2019.3.9=hecc5488_0
   - certifi=2019.3.9=py37_0
   - cffi=1.12.3=py37hb5b8e2f_0
   - chardet=3.0.4=py37_1
@@ -80,7 +80,7 @@ dependencies:
   - olefile=0.46=py37_0
   - openblas=0.3.5=h436c29b_1001
   - openblas-devel=0.3.3=3
-  - openssl=1.1.1b=h1de35cc_1
+  - openssl=1.1.1b=h01d97ff_2
   - pandas=0.24.2=py37h0a44026_0
   - pandoc=2.2.3.2=0
   - pandocfilters=1.4.2=py37_1
@@ -149,6 +149,7 @@ dependencies:
     - jupyter-latex-envs==1.4.6
     - lxml==4.3.2
     - mdp==3.5
+    - metakernel==0.23.0
     - pymdptoolbox==4.0b3
 prefix: /Users/brian/anaconda3/envs/rl-course
 

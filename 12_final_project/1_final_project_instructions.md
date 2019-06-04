@@ -17,7 +17,7 @@ Final Project deliverables
 
 | Item                  | Due Date & Time | Weight |
 |:----------------------|:---------------:|:-----: |  
-| Topic selection       | 05-30 1pm  | 5%     |
+| Proposal              | 06-30 1pm  | 5%     |
 | Check-in              | 06-20 4pm  | 5%     |
 | In-class presentation | 06-27 1pm  | 20%    |
 | Summary report        | 06-27 9pm  | 20%    |

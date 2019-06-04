@@ -1,13 +1,25 @@
 RL Terms
 -----
 
-(You should create your own definitions and compare/contrast elements to study for the exam)
+For following concepts, you should do the following:
+
+- Be able define in your own words
+- Be able define in formal terms
+- Create specific examples
+- Compare/contrast elements 
+
+-----
+Concepts
+-----
 
 - RL Problem Definition
     + Agent
     + Environment
     + State
     + Reward
+- Models: 
+    - Deterministics
+    - Stochastic
 - dynamic programming (DP) 
 - discount factor
 - State Space
@@ -26,6 +38,9 @@ RL Terms
 - Policy Types
     + Deterministic
     + Stochastic
+- Policy:
+    + Behaviour Policy
+    + Target Polic 
 - Algorithms types
     - Model-based algorithms
     - Model-free algorithms

@@ -7,7 +7,7 @@ Final Project Proposal (Points)
 - Name: Your name    
 
 - Research Question (1): 
-- Apply RL Framework:
+- Formulate it as a Reinforcement Learning problem:
     + Sequential (1) - Be explicit on the time steps (e.g., discrete, continuous, finite, infinite)
     + Environment (1) - Where is the agent?
     + Agent (1) - Who/what takes an action and gets a reward?
