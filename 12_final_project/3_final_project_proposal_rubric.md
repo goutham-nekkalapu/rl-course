@@ -4,8 +4,8 @@ Final Project Proposal Rubric
 See Canvas for due date.
 
 Final Project Proposal (Points)
-- Name: Your name    
 
+- Name: Your name    
 - Research Question (1): 
 - Formulate it as a Reinforcement Learning problem:
     + Sequential (1) - Be explicit on the time steps (e.g., discrete, continuous, finite, infinite)

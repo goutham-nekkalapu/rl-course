@@ -17,12 +17,12 @@ Final Project deliverables
 
 | Item                  | Due Date & Time | Weight |
 |:----------------------|:---------------:|:-----: |  
-| Proposal              | 06-30 1pm  | 5%     |
-| Check-in              | 06-20 4pm  | 5%     |
-| In-class presentation | 06-27 1pm  | 20%    |
-| Summary report        | 06-27 9pm  | 20%    |
-| Code base             | 06-27 9pm  | 50%    |
-| __Total__             |            |__100%__|
+| Proposal              | 06-06 1pm       | 5%     |
+| Check-in              | 06-20 4pm       | 5%     |
+| In-class presentation | 06-27 1pm       | 20%    |
+| Summary report        | 06-27 9pm       | 20%    |
+| Code base             | 06-27 9pm       | 50%    |
+| __Total__             |                 |__100%__|
 
 
 Instructions
