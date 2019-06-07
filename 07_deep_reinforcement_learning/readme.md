@@ -1,6 +1,11 @@
 Prework
 ======
 
+Introductory
+--------
+
+- [Applied Deep Learning with PyTorch](https://www.youtube.com/watch?v=CNuI8OWsppg) (5 hours - pick the sections that relevant to you)
+
 Required
 ------
 
@@ -13,14 +18,15 @@ Required
 Optional
 ------
 
-- Lex's intro https://www.youtube.com/watch?v=zR11FLZ-O9M
+- [Lex's board intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M) (video - 1:08)
+- [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 - [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560.pdf)
+- [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 
 Challenge
 -----
 
+- https://thegradient.pub/why-rl-is-flawed/
 - [From pixels to pong](http://karpathy.github.io/2016/05/31/rl/)
 - https://github.com/andri27-ts/60_Days_RL_Challenge
-
-
-                                                                                
+                                                  
