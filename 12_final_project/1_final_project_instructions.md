@@ -42,6 +42,13 @@ You'll also turn in a summary report. The expected form for the summary report i
 
 Signup spreadsheet is [here](https://docs.google.com/spreadsheets/d/1fbPAjUUhBfvxhtkVRJhacltUrpx4KJMpxSD1jegm0Dg/edit?usp=sharing).
 
+Final Project Scoring Guidelines
+------
+
+The instructor will fill Presentation Rubric out as completely as possible during your presentation. After your presentation, you'll get a chance to look at the Presentation Rubric and can ask a questions. The instructor reserves the right to modify the scores on any section, in other words what you see after your presentation is just an estimate of your final score).
+
+The instructor will finish filling out the other rubrics when scoring the out-of-class portions. The instructor will post all completed rubrics to Canvas.
+
 ###  Hints
 
 - Make it run, make it right, make it fast. (in that order)
