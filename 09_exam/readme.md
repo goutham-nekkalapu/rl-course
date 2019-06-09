@@ -1,22 +1,33 @@
-Exam Study Guide
+Exam Policies & Study Guide
 ======
 
-The exam will be 05-29-19 from 1:10-3:05pm.
+The exam will be on 06-18-19 from 1:10-3:05p.
 
-The exam is closed books and computers (including phones and Internet). It is open mind. 
+The exam is closed book, notes, and Internet. 
 
 You may use a calculator. Your calculator can __not__ have memory.
 
-You may use 1 page of your own notes. Just to clarify - __only__ one regular sheet of paper, front and back, with only your own handwriting. Color coding is acceptable. Sticky notes are not acceptable. 
+Scratch paper will be provided.
 
-The professor reserves the right to inspect and deny any notes. If you have any questions or concerns, please ask the professor or show your notes before the exam.
+You will have one chance to answer each question, and they will appear in random order.
 
+The exam requires Respondus LockDown Browser to be installed on your personal computer.
+    +  Please work through the quick start guide [here](http://www.respondus.com/downloads/RLDB-QuickStartGuide-Instructure-Student.pdf).
+    - Please install it before hand. Familiarize yourself with it. 
+    - It only works with [Windows and Mac](https://www.respondus.com/products/lockdown-browser/requirements.shtml). Let the instructor by 06-14-19 that you'll need accommodation by having a printed exam.
+
+Looking at any computer (including your phone or another student's computer) or any notes is considering cheating. You'll receive an automatic zero on the quiz. Other penalties for academic integrity violations are also possible.
+
+Please reach out to the instructor about any questions or clarifications.
+
+----
 Study Ideas (an incomplete list)
 ------
 
-- Recall the content and style of the quiz questions.
+- __All__ course materials are fair-game.
+- Recall the content and style of the questions from the comprehension quizzes.
+- Complete `rl_terms.md` in the resources folder.
+- [Feynman Technique](https://fs.blog/2012/04/feynman-technique/) for major course concepts and the learning outcomes and summary from each notebook (lecture and labs).
 - Redo all the labs without looking at external resources - just you and an editor.
-- Complete `rl_terms.md` in resources in folder.
-- [Feynman Technique](https://fs.blog/2012/04/feynman-technique/) for major course concepts and the learning outcomes from each notebook (lecture and labs).
-- Complete this [homework](https://www.is.uni-freiburg.de/ressourcen/business-analytics/homework_reinforcementlearning.pdf)
-- Exercises from Sutton and Barto book. The exam questions will be not be as  difficult as those exercises, in order words those exercises are challenging and the exam will be easier. Study hard; test easy.
+- Complete the relevant sections of this [homework sheet](https://www.is.uni-freiburg.de/ressourcen/business-analytics/homework_reinforcementlearning.pdf).
+- Attempt the exercises from Sutton and Barto book. The exam questions will not be as difficult as those exercises, in other words those exercises are challenging and the exam will be easier. Study hard; test easy.
