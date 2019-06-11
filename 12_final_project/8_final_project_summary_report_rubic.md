@@ -23,7 +23,7 @@
         - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     - \_\_\_ (5 pts) Writing
         + File named - "Summary Report" and in GitHub repo: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-        - Apporpiate length: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+        - Appropriate length: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Clear: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Logical: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Spelling and Grammar: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

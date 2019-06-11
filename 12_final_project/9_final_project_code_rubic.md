@@ -18,11 +18,11 @@
     - \_\_\_\_ (15 pts) Code Quality
         - Code runs: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Results are reproducible: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-        - Appropiate hard-coding: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+        - Appropriate hard-coding: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Uses Pythonic idioms: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         + Effective passes over data: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         + Appropriate automation: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-        + Appropriate optimtization: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+        + Appropriate optimization: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         + Appropriate modularized: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Appropriate tests: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             + Rule of thumb - Every function that does computation should have a unit test
@@ -40,9 +40,9 @@
         + README(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         + Markdown cells: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         + Docstrings for every class and function: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-        + Inline comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            * Appropriate quanity
-            - Explain non-obivous elements
+        + In-line comments: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+            * Appropriate quantity
+            - Explain non-obvious elements
             - Describe the why of the code
         - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     - \_\_\_\_ (1 pt) Use of git / GitHub

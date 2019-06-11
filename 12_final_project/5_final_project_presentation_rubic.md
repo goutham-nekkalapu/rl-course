@@ -1,4 +1,4 @@
-<center><h2> Final Project Presenation Rubric (rough draft)</h2></center>
+<center><h2> Final Project Presentation Rubric (rough draft)</h2></center>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name(s)
 
