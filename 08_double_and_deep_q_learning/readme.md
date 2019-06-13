@@ -16,20 +16,15 @@ Required
     + [video](https://youtu.be/fdY7dt3ijgY?t=6482)
     + [slides start at #48](https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf)
 - [Play with Q-learning demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+- [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)
+- [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461https://arxiv.org/abs/1509.06461)
 
-Optional
-------
+
+Challenge
+-----
 
 - As a class, we are are skipping the following Stanford lectures. They are mostly research-oriented. You are welcome to watch it on your own.
     - Lecture 7 - Imitation Learning 
     - Lecture 8 - Policy Gradient I
     - Lecture 9 - Policy Gradient II
     - Lecture 10 - Policy Gradient III & Midterm Review 
-
-Challenge
------
-
-- [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461https://arxiv.org/abs/1509.06461)
-
-
-                                                                                
