@@ -6,7 +6,7 @@
 Course Description
 ----
 
-This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). Reinforcement Learning studies how agents learn to take succesful actions in an enviroment. Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games and board games. The course will focus on contemporary, practical applications of Reinforcement Learning. Topics will include fundamental Reinforcement Learning algorithms, such as multi-arm bandits and q-learning, and deep Reinforcement Learning. 
+This course will cover techniques in applied Reinforcement Learning (RL). Reinforcement Learning is one the most successful subdomains within Artificial Intelligence (AI). Reinforcement Learning studies how agents learn to take successful actions in an environment. Reinforcement Learning extends the usefulness of Machine Learning into new domains, such as video games and board games. The course will focus on contemporary, practical applications of Reinforcement Learning. Topics will include fundamental Reinforcement Learning algorithms, such as multi-arm bandits and q-learning, and deep Reinforcement Learning. 
 
 This course is part of the [MS in Data Science program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
 
@@ -138,7 +138,7 @@ The labs will be hands-on activities. The focus will be implementing algorithms 
 | 3. Grid World            | 06-02-19 9p|
 | 4. Tic, Tac, Toe         | 06-09-19 9p|
 | 5. Basket Catch          | 06-16-19 9p|
-| 6. Cart Pole             | 06-23-19 9p|
+| 6. Cart Pole             | 06-26-19 9p|
 
 Late assignments will only be accepted for medical emergencies.
 
