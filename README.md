@@ -138,7 +138,7 @@ The labs will be hands-on activities. The focus will be implementing algorithms 
 | 3. Grid World            | 06-02-19 9p|
 | 4. Tic, Tac, Toe         | 06-09-19 9p|
 | 5. Basket Catch          | 06-16-19 9p|
-| 6. Cart Pole             | 06-26-19 9p|
+| 6. Cart Pole             | 06-29-19 9p|
 
 Late assignments will only be accepted for medical emergencies.
 
