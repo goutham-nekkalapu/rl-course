@@ -1,6 +1,6 @@
 <center><h2> Final Project Summary Report Rubric (rough draft)</h2></center>
 
-\_\_\_\_ (20 points) Summary Report 
+- \_\_\_\_ (20 points) Summary Report 
     - \_\_\_\_ (5 pts) Topic / Research Question
         - Originality / Creativity: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - Meaningful: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

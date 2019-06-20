@@ -2,7 +2,7 @@
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name(s)
 
-1. \_\_\_\_ (20 points) In-class presentation 
+- \_\_\_\_ (20 points) In-class presentation 
     - \_\_\_\_ (10 pts) Content
         - \_\_\_\_ (7 pts) Modeling 
             + Model learned: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

@@ -1,6 +1,6 @@
 <center><h2> Final Project Code Rubric (rough draft)</h2></center>
 
-1. \_\_\_\_ (50 points) Code 
+- \_\_\_\_ (50 points) Code 
 
     - \_\_\_\_ (10 pts) Overall
         + GitHub repo is well organized: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
