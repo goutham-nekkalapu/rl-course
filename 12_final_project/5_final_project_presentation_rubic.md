@@ -1,12 +1,12 @@
-<center><h2> Final Project Presentation Rubric (rough draft)</h2></center>
+<center>Final Project Presentation Rubric</center>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name(s)
+&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name(s)
 
 - \_\_\_\_ (20 points) In-class presentation 
     - \_\_\_\_ (10 pts) Content
         - \_\_\_\_ (7 pts) Modeling 
             + Model learned: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Compared models to baseline performance: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+            - Compared models to baseline performance: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Presented and interpreted best model: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
             - Evaluation metrics: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Visual analysis of results: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -30,12 +30,8 @@
         - \_\_\_\_ (4 pts) Delivery  
             - Professional appearance: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Overall conduct: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Tone: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Volume: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Speed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Repetition: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+            - Tone / Volume / Speed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Body / hand movements: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-            - Eye contact: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
         - \_\_\_\_ (4 pts) Slides (or presentation artifacts)
             + Organization: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -49,4 +45,4 @@
             - Within time limit: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
             - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Cite all previous work: PASS or FAIL (FAIL: Means plagiarism, thus automatic 0 on the entire project.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cite all previous work: PASS or FAIL (FAIL: Means plagiarism, thus automatic 0 on the entire project.)

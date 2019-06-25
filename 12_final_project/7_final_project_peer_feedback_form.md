@@ -53,7 +53,3 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Single biggest thing__ the person / team could do to improve: 
 
-<br>
-<br>
-
------

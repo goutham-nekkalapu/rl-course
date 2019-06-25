@@ -1,4 +1,6 @@
-<center><h2> Final Project Summary Report Rubric (rough draft)</h2></center>
+<center>Final Project Summary Report Rubric</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name(s)
 
 - \_\_\_\_ (20 points) Summary Report 
     - \_\_\_\_ (5 pts) Topic / Research Question

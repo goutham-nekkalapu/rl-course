@@ -1,4 +1,4 @@
-<center><h2>Final Project Qualitative Assessment</h2></center>
+<center>Final Project Qualitative Assessment</center>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name(s): _________________________
